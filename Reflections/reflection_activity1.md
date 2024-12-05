@@ -1,0 +1,1 @@
+I used the activities we did in class to solve this also using stack overflow to help with some of the answers. I think im starting to get the hang of this but I need to keep looking at resources. But with those resources im able to work through the code. I didn't run into any major issues with this activity.

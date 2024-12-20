@@ -1,0 +1,1 @@
+This portfolio is for my foundations of data science class. there are four activities,Activity one is python basics, two is lists and loops, three is a text Adventure game and four is this video https://youtu.be/IpoRSvTcoJ4.There's also folder that has Reflections on the first three activities respectively. 
